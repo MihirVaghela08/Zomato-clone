@@ -24,14 +24,10 @@ A brief description of your project.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+https://github.com/MihirVaghela08/Zomato-clone
 ```
 
 Navigate to the project folder:
-
-```bash
-cd YOUR_REPOSITORY
-```
 
 Install dependencies:
 
